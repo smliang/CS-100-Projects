@@ -1,0 +1,28 @@
+grade lloYd gibbon 
+grade judith tignor 
+grade Sharla Mattocks 
+grade lan Mazon 
+grade vAlArie TewksBury 
+min E4 
+min P2 
+min L3 
+min Q1 
+min E8 
+max E4 
+max P3 
+max P6 
+max E8 
+avg E4 
+avg E8 
+avg Q1 
+avg Q2 
+avg L4 
+count E4 100
+count P3 50
+count B6 75
+count Q1 45
+count L9 95
+grade allen jackson
+grade kevin durant
+
+ 
